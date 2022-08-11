@@ -4,3 +4,5 @@
 ## 随机梯度下降
 
 ![image-20220811153021180](README.assets/image-20220811153021180.png)
+
+![image-20220811154805263](README.assets/image-20220811154805263.png)
