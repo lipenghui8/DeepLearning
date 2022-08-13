@@ -16,3 +16,11 @@
 ## pytorch  结构
 
 ![image-20220813112252736](README.assets/image-20220813112252736.png)
+
+## 损失函数与优化器构造
+
+![image-20220813154725197](README.assets/image-20220813154725197.png)
+
+## 常用优化函数
+
+![image-20220813163407854](README.assets/image-20220813163407854.png)
