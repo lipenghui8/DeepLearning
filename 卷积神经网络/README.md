@@ -16,6 +16,8 @@
 
 ![image-20220819104556071](https://img-1301878935.cos.ap-nanjing.myqcloud.com//typora/image-20220819104556071.png)
 
+![image-20220825170658579](https://img-1301878935.cos.ap-nanjing.myqcloud.com//typora/image-20220825170658579.png)
+
 ![image-20220819104825276](https://img-1301878935.cos.ap-nanjing.myqcloud.com//typora/image-20220819104825276.png)
 
 - 权重就是这四个维度
